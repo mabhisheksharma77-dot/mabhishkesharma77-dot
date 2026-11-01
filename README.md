@@ -1,50 +1,73 @@
 # 👋 Hi, I'm Abhishek Sharma
 
-### Aspiring Data Analyst | SQL | Power BI | Excel | Data Visualization
+### 📊 Aspiring Data Analyst | SQL | Power BI | Excel | MySQL | Data Visualization
 
-I am an aspiring Data Analyst passionate about transforming raw data into meaningful business insights and interactive dashboards.
+I am a BCA Graduate and aspiring Data Analyst with hands-on experience in **SQL, MySQL, Excel, Power BI, DAX, Google Sheets and Data Visualization**.
 
-## 🛠️ Skills
-
-- **SQL / MySQL** – Data analysis, joins, subqueries, CTEs, window functions
-- **Power BI** – Dashboard development, DAX, KPI cards, slicers and data visualization
-- **Excel** – Data cleaning, Pivot Tables, XLOOKUP, INDEX-MATCH, SUMIFS and dashboards
-- **Google Sheets** – Data analysis, formulas and interactive dashboards
-- **Data Visualization** – Business dashboards and performance reporting
-
-## 📊 Featured Project
-
-### E-Commerce Customer Churn Analysis & Retention Dashboard
-[🔗 View Project on GitHub](https://github.com/mabhisheksharma77-dot/ecommerce-customer-churn-analysis)
-
-**Tools:** Excel | MySQL | Power BI
-
-**Project Highlights:**
-- Analyzed **8,000 customer records**
-- Calculated overall customer churn and retention metrics
-- Identified high-risk customer segments
-- Analyzed churn based on customer tenure, orders, ratings, returns and cancellations
-- Created an interactive Power BI dashboard with KPI cards, charts and slicers
-- Developed business recommendations for customer retention
-
-**Key Findings:**
-- Overall Churn Rate: **14.84%**
-- Customers with 0–6 months tenure showed higher churn risk
-- Customers with fewer orders had higher churn
-- High return and cancellation customers showed significantly higher churn risk
-
-## 📈 Dashboard
-
-The project includes an interactive Power BI dashboard for monitoring customer churn, retention and risk segments.
-
-## 🎯 Career Goal
-
-I am looking for opportunities as a **Data Analyst / Business Analyst** where I can use data to support business decisions and solve real-world problems.
-
-## 📫 Connect With Me
-
-- **GitHub:** [mabhishkesharma77-dot](https://github.com/mabhishkesharma77-dot)
+I enjoy transforming raw data into meaningful insights, interactive dashboards and data-driven business recommendations.
 
 ---
 
-⭐ Feel free to explore my projects and repositories.
+## 🛠️ Skills & Technologies
+
+- **SQL / MySQL** — Data analysis, joins, subqueries, CTEs, aggregations and window functions
+- **Power BI** — Interactive dashboards, KPI cards, filters and data visualization
+- **DAX** — Measures, calculated columns and KPI calculations
+- **Excel** — Data cleaning, formulas, pivot tables and dashboards
+- **Google Sheets** — Data analysis, formulas and dashboard development
+- **Data Cleaning** — Handling duplicates, missing values and data validation
+- **Data Visualization** — Charts, dashboards and business insights
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Customer Churn Analysis & Retention Dashboard
+
+**Tools:** Excel | MySQL | SQL | Power BI | DAX
+
+Analyzed 8,000 customer records to identify customer churn patterns, high-risk segments and retention opportunities.
+
+**Key Highlights:**
+- Overall Churn Rate: **14.84%**
+- Identified high-risk new customers
+- Analyzed churn by tenure, orders, ratings, returns and cancellations
+- Built an interactive Power BI dashboard
+- Developed SQL analysis for customer segmentation and churn insights
+
+🔗 [View E-Commerce Churn Project](https://github.com/mabhisheksharma77-dot/ecommerce-customer-churn-analysis)
+
+---
+
+### 📈 Amazon Sales Dashboard
+
+**Tools:** Excel | MySQL | Power BI
+
+Built an interactive sales dashboard to analyze sales performance, trends and business KPIs.
+
+🔗 [View Amazon Sales Dashboard](https://github.com/mabhisheksharma77-dot/Amazon-sales-dashboard)
+
+---
+
+## 🎯 Currently Focusing On
+
+- Advanced SQL
+- Power BI & DAX
+- Data Analytics
+- Dashboard Development
+- Business Intelligence
+- Data-driven Decision Making
+
+---
+
+## 💼 Career Goal
+
+I am looking for opportunities as a **Data Analyst / BI Analyst** where I can apply my analytical and visualization skills to solve real-world business problems.
+
+---
+
+## 📫 Connect With Me
+
+**GitHub:** [mabhishkesharma77-dot](https://github.com/mabhisheksharma77-dot)
+
+**Skills:** SQL | MySQL | Power BI | Excel | DAX | Google Sheets | Data Visualization
