@@ -15,6 +15,7 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 ## 📊 Featured Project
 
 ### E-Commerce Customer Churn Analysis & Retention Dashboard
+🔗 [View Project on GitHub](https://github.com/mabhishkesharma77-dot/ecommerce-customer-churn-analysis)
 
 **Tools:** Excel | MySQL | Power BI
 
